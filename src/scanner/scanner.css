@@ -1,0 +1,72 @@
+.container_1{
+    width: 1440px;
+    margin: 0 auto;
+    
+}
+.row_1 {
+    /* grid-template-columns: repeat(2, 1fr); */
+    display: flex;
+    gap: 25px;
+    margin-top: 25px;
+}
+.card {
+    margin-left: 115px;
+    margin-top: 22px;
+    width: 581px;
+    height: 295px;
+    flex-shrink: 0;
+    display: flex;
+    border-radius: 40px;
+    background: #87B7FF;
+}
+.card_2 {
+    margin-left: 8px;
+    margin-top: 22px;
+    width: 581px;
+    height: 295px;
+    flex-shrink: 0;   
+    display: flex;
+    border-radius: 40px;
+    background: #BDFF00;
+}
+.card_title {
+    color: #292929;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%; 
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.card_title_2 {
+    color: #292929;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%; 
+    padding-top: 30px;
+    padding-left: 35px;
+}
+.card_text {
+    color: #8C8C8C;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding-top: 13px;
+    padding-left: 31px;
+}
+.card_img_2 {
+padding-top: 22px;
+}
+.strelka_1 {
+    padding: 30px 15px 35px 34px;
+}
+
+.strelka_2 {
+    padding: 64px 15px 35px 37px;
+}
+
